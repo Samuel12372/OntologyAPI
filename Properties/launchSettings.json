@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UOM Ontology API": {
+      "commandName": "Project",
+      "commandLineArgs": "efo machine-readable\r\n"
+    }
+  }
+}

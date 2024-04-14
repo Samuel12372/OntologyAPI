@@ -1,0 +1,14 @@
+C:\Users\samle\OneDrive\Documents\CV\UOM Ontology API\bin\Debug\net6.0\UOM Ontology API.exe
+C:\Users\samle\OneDrive\Documents\CV\UOM Ontology API\bin\Debug\net6.0\UOM Ontology API.deps.json
+C:\Users\samle\OneDrive\Documents\CV\UOM Ontology API\bin\Debug\net6.0\UOM Ontology API.runtimeconfig.json
+C:\Users\samle\OneDrive\Documents\CV\UOM Ontology API\bin\Debug\net6.0\UOM Ontology API.dll
+C:\Users\samle\OneDrive\Documents\CV\UOM Ontology API\bin\Debug\net6.0\UOM Ontology API.pdb
+C:\Users\samle\OneDrive\Documents\CV\UOM Ontology API\obj\Debug\net6.0\UOM Ontology API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samle\OneDrive\Documents\CV\UOM Ontology API\obj\Debug\net6.0\UOM Ontology API.AssemblyInfoInputs.cache
+C:\Users\samle\OneDrive\Documents\CV\UOM Ontology API\obj\Debug\net6.0\UOM Ontology API.AssemblyInfo.cs
+C:\Users\samle\OneDrive\Documents\CV\UOM Ontology API\obj\Debug\net6.0\UOM Ontology API.csproj.CoreCompileInputs.cache
+C:\Users\samle\OneDrive\Documents\CV\UOM Ontology API\obj\Debug\net6.0\UOM Ontology API.dll
+C:\Users\samle\OneDrive\Documents\CV\UOM Ontology API\obj\Debug\net6.0\refint\UOM Ontology API.dll
+C:\Users\samle\OneDrive\Documents\CV\UOM Ontology API\obj\Debug\net6.0\UOM Ontology API.pdb
+C:\Users\samle\OneDrive\Documents\CV\UOM Ontology API\obj\Debug\net6.0\UOM Ontology API.genruntimeconfig.cache
+C:\Users\samle\OneDrive\Documents\CV\UOM Ontology API\obj\Debug\net6.0\ref\UOM Ontology API.dll
